@@ -1,0 +1,44 @@
+
+    body{
+        background-image:  url(https://img.freepik.com/free-photo/black-prism-concept-ai-generated_268835-7011.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    fieldset{
+        border: 2px solid white;
+        border-radius: 0px 10px;
+        box-shadow: 0px 0px 20px white;
+        color: white;
+    }
+    h1{
+        text-align: center;
+        /* border: 2px solid white; */
+        box-shadow: 0px 0px 30px white;
+        color: aliceblue;
+        
+        border-radius: 50px;
+        font-style:inherit;
+    }
+    legend{
+        
+        background: linear-gradient(90deg, brown,black,red);
+        font-weight: 10px;
+        border-radius: 0px 10px;
+        border: 1px solid white;
+        padding: 10px;
+        color: white;
+    }
+    button{
+        
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0.737),black,white);
+        padding: 5px;
+        border-radius:  10px;
+        width: 90px;
+        margin-left: 40px;
+        border: 1px solid white;
+        margin-top: 10px;
+        color: white;
+        box-shadow: 0px 0px 15px grey;
+        
+    }
